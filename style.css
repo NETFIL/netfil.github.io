@@ -13,7 +13,7 @@ body {
 .inner {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-template-rows: 240px 240px 200px;
+	grid-template-rows: 270px 270px 200px;
 }
 
 .img {
@@ -34,7 +34,7 @@ p {
 	display: inline-block;
 	padding: 10px 20px;
 	border: none;
-	background: rgb(88, 155, 114);
+	background: #07575B;
 	border-radius: 10px;
 	color: #fff;
 	text-transform: uppercase;
@@ -44,7 +44,7 @@ p {
 }
 
 .btn:hover {
-	background: rgb(23, 37, 23);
+	background: #66A5AD;
 }
 
 .usercard {
